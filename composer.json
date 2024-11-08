@@ -27,7 +27,7 @@
         }
     ],
     "require": {
-        "   test/PACKAGEPHP": "dev-main"
+        "test/PACKAGEPHP": "dev-main"
     }
 
   }
