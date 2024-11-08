@@ -1,10 +1,10 @@
 {
-    "name": "test/pACKAGEPHP",
+    "name": "test/PACKAGEPHP",
     "description": "Un package Laravel privé avec des fonctions de base",
     "type": "library",
     "authors": [
       {
-        "name": "Votre Nom",
+        "name": "John Doe",
         "email": "ayenaaurel15@gmail.com"
       }
     ],
