@@ -3,22 +3,22 @@
     "description": "Un package Laravel privé avec des fonctions de base",
     "type": "library",
     "authors": [
-      {
-        "name": "John Doe",
-        "email": "ayenaaurel15@gmail.com"
-      }
+        {
+            "name": "John Doe",
+            "email": "ayenaaurel15@gmail.com"
+        }
     ],
     "autoload": {
-  "psr-4": {
-    "PACKAGEPHP\\": "src/"
-  }
-},
+        "psr-4": {
+            "PACKAGEPHP\\": "src/"
+        }
+    },
     "extra": {
-      "laravel": {
-        "providers": [
-          "PACKAGEPHP\\PACKAGEPHPServiceProvider"
-        ]
-      }
+        "laravel": {
+            "providers": [
+                "PACKAGEPHP\\PACKAGEPHPServiceProvider"
+            ]
+        }
     },
     "repositories": [
         {
@@ -28,7 +28,7 @@
     ],
     "require": {
         "test/PACKAGEPHP": "dev-main"
-    }
-
-  }
-  
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": true
+}

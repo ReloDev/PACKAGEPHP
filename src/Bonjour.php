@@ -1,6 +1,6 @@
 <?php
 
-namespace test\PACKAGEPHP;
+namespace PACKAGEPHP;
 
 class Bonjour
 {
