@@ -9,10 +9,10 @@
       }
     ],
     "autoload": {
-      "psr-4": {
-        "Test\\PACKAGEPHP\\": "src/"
-      }
-    },
+  "psr-4": {
+    "PACKAGEPHP\\": "src/"
+  }
+},
     "extra": {
       "laravel": {
         "providers": [
