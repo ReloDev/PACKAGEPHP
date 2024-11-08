@@ -1,10 +1,10 @@
 <?php
 
-namespace test\PACKAGEPHP;
+namespace PACKAGEPHP;
 
 use Illuminate\Support\ServiceProvider;
 
-class MonPackageServiceProvider extends ServiceProvider
+class PACKAGEPHPServiceProvider extends ServiceProvider
 {
     public function register()
     {
