@@ -6,6 +6,6 @@ class Bonjour
 {
     public function direBonjour()
     {
-        return "Bonjour depuis PACKAGEPHP !";
+        return "Bonjour depuis AGLA !";
     }
 }
