@@ -20,6 +20,15 @@
         ]
       }
     },
-    "require": {}
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/ReloDev/PACKAGEPHP.git"
+        }
+    ],
+    "require": {
+        "   test/PACKAGEPHP": "dev-main"
+    }
+
   }
   
